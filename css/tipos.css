@@ -1,0 +1,170 @@
+#imgheadercont
+{
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+#logo
+{
+	position: absolute;
+	top: 55px;
+	left: 50px;
+	width: 90px;
+}
+nav
+{
+	position: relative;
+}
+li
+{
+	list-style-type: none;
+}
+.op a
+{
+	text-decoration: none;
+	color: #000;
+	background-color: #FFF;
+	border-radius: 30px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 3px 14px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#op1
+{	
+	position: absolute;
+	left: 150px;
+	top: 0;
+}
+#op2
+{	
+	position: absolute;
+	left: 200px;
+	top: 55px;
+}
+#op3
+{	
+	position: absolute;
+	left: 150px;
+	top: 105px;
+}
+#op4
+{	
+	position: absolute;
+	left: 100px;
+	top: 155px;
+}
+#header h1
+{
+	position: absolute;
+	color: #fff;
+	font-size: 50px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	top: 35px;
+	left: 40%;
+}
+
+#container {
+	margin: 40px auto;
+	width: 880px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.section {
+	border-bottom: 4px solid #c2323e;
+	position: relative;
+	top: 230px;
+	padding: 38px 0 38px;
+	margin: 0 18px;
+
+}
+
+.section h1 {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 40px;
+	color: #000;
+	letter-spacing: 0;
+	margin-top: 35px;
+	margin-left: 150px;
+}
+.section h2 {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 25px;
+	color: #000;
+	margin-top: 20px;
+	margin-left: 210px;
+}
+
+.section .left {
+	width: 202px;
+	float: left;
+}
+
+.section .left h3 {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 24px;
+	color: #000;
+}
+
+.section  .right {
+	float: right;
+	width: 622px;
+}
+
+.section p {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 14px;
+	margin-bottom: 10px;
+	line-height: 1.3em;
+}
+
+.sectiontop {
+	height: 50px;
+}
+
+.contenido {
+	height: 80px;
+}
+
+footer
+{
+	position: absolute;
+	width: 100%;
+	bottom: -110%;
+}
+#imgfoot
+{
+	position: absolute;
+	width: 100%;
+}
+#txtfoot
+{
+	position: absolute;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 30px;
+	color: white;
+	top: 45px;
+	right: 50%;
+}
+.social
+{
+	position: absolute;
+	width: 50px;
+	top: 45px;
+	left: 50%;
+}
+#facebook
+{
+}
+#twitter
+{
+	left: 55%;
+}
+#instagram
+{
+	left: 60%;
+}
+#youtube
+{
+	left: 65%
+}

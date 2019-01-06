@@ -1,0 +1,117 @@
+#imgheader
+{
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+#logo
+{
+	position: absolute;
+	top: 75px;
+	right: 45px;
+	width: 150px;
+}
+nav
+{
+	position: relative;
+}
+li
+{
+	list-style-type: none;
+}
+.op a
+{
+	text-decoration: none;
+	color: #000;
+	background-color: #FFF;
+	border-radius: 30px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 3px 14px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#op1
+{	
+	position: absolute;
+	right: 220px;
+	top: 40px;
+}
+#op2
+{	
+	position: absolute;
+	right: 320px;
+	top: 130px;
+}
+#op3
+{	
+	position: absolute;
+	right: 220px;
+	top: 220px;
+}
+#op4
+{	
+	position: absolute;
+	right: 120px;
+	top: 310px;
+}
+#header h1
+{
+	position: absolute;
+	font-size: 50px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	right: 40px;
+	top: 480px;
+}
+#cuerpo
+{
+	position: relative;
+	top: 670px;
+	justify-content: center;
+}
+#slider
+{
+	width: 100%;
+}
+footer
+{
+	position: absolute;
+	width: 100%;
+	bottom: -130%;
+}
+#imgfoot
+{
+	position: absolute;
+	width: 100%;
+}
+#txtfoot
+{
+	position: absolute;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 30px;
+	color: white;
+	top: 45px;
+	right: 50%;
+}
+.social
+{
+	position: absolute;
+	width: 50px;
+	top: 45px;
+	left: 50%;
+}
+#facebook
+{
+}
+#twitter
+{
+	left: 55%;
+}
+#instagram
+{
+	left: 60%;
+}
+#youtube
+{
+	left: 65%
+}

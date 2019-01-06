@@ -1,0 +1,150 @@
+#imgheadercont
+{
+	width: 100%;
+	position: absolute;
+	top: 0;
+}
+#logo
+{
+	position: absolute;
+	top: 55px;
+	left: 50px;
+	width: 90px;
+}
+nav
+{
+	position: relative;
+}
+li
+{
+	list-style-type: none;
+}
+.op a
+{
+	text-decoration: none;
+	color: #000;
+	background-color: #FFF;
+	border-radius: 30px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 3px 14px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+#op1
+{	
+	position: absolute;
+	left: 150px;
+	top: 35px;
+}
+#op2
+{	
+	position: absolute;
+	left: 200px;
+	top: 90px;
+}
+#op3
+{	
+	position: absolute;
+	left: 150px;
+	top: 140px;
+}
+#op4
+{	
+	position: absolute;
+	left: 100px;
+	top: 190px;
+}
+#header h1
+{
+	position: absolute;
+	color: #fff;
+	right: 0px;
+	font-size: 50px;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	top: 35px;
+	left: 45%;
+}
+
+#cuerpo
+{
+	position: absolute;
+	top: 50%;
+	left: 5%;
+	right: 5%;
+	bottom: 5%;
+	overflow: hidden;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+#form
+{
+	position: absolute;
+	top: 10%;
+	left: 30%;
+	height: 100%;
+	width: 100%;
+	border: 0;
+}
+ .forma 
+{
+    border-radius: 100px;
+    border: 2px solid #c2323e;
+    width: 40%;
+    height: 45px;
+	text-align: center;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+ }
+ .boton
+ {
+ 	border-radius: 100px;
+ 	position: absolute;
+ 	border-radius: 5px;
+	margin-left: 15%;
+	width: 10%;
+	height: 10%;
+	text-align: center;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+ }
+footer
+{
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}
+#imgfoot
+{
+	position: absolute;
+	width: 100%;
+}
+#txtfoot
+{
+	position: absolute;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 30px;
+	color: white;
+	top: 45px;
+	right: 50%;
+}
+.social
+{
+	position: absolute;
+	width: 50px;
+	top: 45px;
+	left: 50%;
+}
+#facebook
+{
+}
+#twitter
+{
+	left: 55%;
+}
+#instagram
+{
+	left: 60%;
+}
+#youtube
+{
+	left: 65%
+}
